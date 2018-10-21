@@ -1,0 +1,4 @@
+## Interface: 50400
+## Title: BoE Appearance Loot Detector
+## Author: Kristian Aspevik
+## Version: 0.1
